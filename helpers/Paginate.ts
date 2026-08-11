@@ -1,0 +1,1 @@
+export default <T>(Arr: T[], Page: number, PageSize: number): T[] => Arr.slice((Page - 1) * PageSize, (Page - 1) * PageSize + PageSize);

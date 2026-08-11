@@ -1,0 +1,1 @@
+export default <T>(Arr: T[], PageSize: number): number => Math.ceil(Arr.length / PageSize);
