@@ -1,7 +1,7 @@
 # aredl-thing
 Discord bot that fetches AREDL data and display them.
 
-## Build Instructions (just boilerplate because i'm too lazy to copy over)
+## Build Instructions
 ### Prerequisites
 1. [Git](https://git-scm.com/). (why are you even on github without git)
 2. [Node.js](https://nodejs.org/en/download). (and also npm but that should come with node, i think)
